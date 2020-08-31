@@ -1,0 +1,36 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <!-- Step 1: Specify what should display on Google, Yahoo, Bing, and other search engines -->
+  <title>This Is the Title That Shows in Search Engines Plus the Top of Your Browser</title>
+  <meta name="description" content="Write a short and engaging description of each blog here (160 character limit) with a key word or several." />
+  <meta name="keywords" content="keywords, are, how, search, engine, browsers, find, your, content" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Without this, blogs would look weird on mobild devices -->
+
+  <!-- Step 2: Add open graph tags to make sure your content screams: "Click me!" on Facebook, Twitter, LinkedIn, and other social media platforms -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Hi, I'm the Title That Displays on Social Media Shares">
+  <meta property="og:description" content="Keep these more conversational. Why? You're writing for humans, not search engines.">
+  <meta property="og:image" content="This is the feature image that shows on social shares. Fail to include an image and you'll get zero clicks!">
+  <meta property="og:url" content="The URL that shows on social media (when in doubt, just name it after the file path in your HTML file).">
+
+  <!-- Step 3: If you haven't set up Google Analytics yet, do so, and then attach the Global Site Tag on EVERY PAGE you want measured -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155279765-1"></script>
+  
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-155279765-1');
+  </script>
+
+  <!-- Step 4: include the file path to your CSS stylesheet and links for any Google Fonts you'd like to use in your styles -->
+  <!-- Yeah, I did the obvious part last, because the "obvious part" doesn't help you build and engage an audience (which should ALWAYS come first) -->
+  <link rel="stylesheet" href="assets/css/internet-architect.css">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
+</head>
+
+</html>
