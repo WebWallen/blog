@@ -1,5 +1,4 @@
-# blog
-My portfolio site desperately needs a blog.... I might as well build it publicly. Enjoy!
+My portfolio site desperately needs a blog. I might as well build it publicly. Enjoy!
 
 Gonna brainstorm blog ideas and stick them here to save my future self some trouble (steal them at your own peril)...
 
