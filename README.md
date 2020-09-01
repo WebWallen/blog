@@ -1,7 +1,7 @@
 # blog
-My portfolio site desperately needs a blog. Might as well build it publicly. Enjoy!
+My portfolio site desperately needs a blog.... I might as well build it publicly. Enjoy!
 
-Gonna brainstorm blog ideas and stick them here to save my future self trouble (steal them at your own peril)...
+Gonna brainstorm blog ideas and stick them here to save my future self some trouble (steal them at your own peril)...
 
 HTML Fundamentals Code Schools Fail to Teach You<br/>
 Why People Who Say "HTML Is Easy" Are Full of Crap<br/>
@@ -14,4 +14,4 @@ Community Outreach: the Fastest, Easiest, and Most Effective Way to Build an Aud
 How to Build Accessible and Responsive Websites that Look Great on Every Device in 6 Simple Steps<br/>
 Specialists Are Supremely Overrated: The Eye-Opening Benefits and Advantages of Being a Generalist<br/><br/>
 
-...so ten pieces of content? Knock out two a week and I'm done in five weeks. Sonds like a good place to start! 
+...so ten pieces of content? Knock out two a week and I'm done in about a month. Sounds like a good start! 
