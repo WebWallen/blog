@@ -10,7 +10,7 @@ Simple Ways to Format an HTML File in an Easy-to-Read and User Friendly Way<br/>
 SEO and Social Media Best Practices Every Web Designer and Developer Should Know<br/>
 The Top 10 Reasons People Aren't Reading Your Content (#7 Is Definitely an Eye-Opener)<br/>
 Community Outreach: the Fastest, Easiest, and Most Effective Way to Build an Audience Online<br/>
-How to Build Accessible and Responsive Websites that Look Great on Every Device in 6 Simple Steps<br/>
 Specialists Are Supremely Overrated: The Incredible Benefits and Advantages of Being a Generalist<br/><br/>
+How to Build Accessible and Responsive Websites that Look Great on Every Device in 6 Simple Steps<br/>
 
 ...so ten pieces of content? Knock out two a week and I'm done in about a month. Sounds like a good start! 
