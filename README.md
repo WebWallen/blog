@@ -3,8 +3,8 @@ My portfolio site desperately needs a blog. Might as well build it publicly. Enj
 
 Gonna brainstorm blog ideas and stick them here to save my future self trouble (steal them at your own peril)...
 
-HTML Fundamentals Most Code Schools Fail to Teach You<br/>
-Why Most People Who Say "HTML Is Easy" Are Full of Crap<br/>
+HTML Fundamentals Code Schools Fail to Teach You<br/>
+Why People Who Say "HTML Is Easy" Are Full of Crap<br/>
 The Most Important Meta Tags to Include on Every HTML File<br/>
 Borrow This HTML Blog Template and Use It for Your Portfolio Website<br/>
 Simple Ways to Format an HTML File in an Easy-to-Read and User Friendly Way<br/>
